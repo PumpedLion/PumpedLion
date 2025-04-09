@@ -1,7 +1,20 @@
-## Hi there 👋 I'm **Dev Rai**
+### 🙋‍♂️ About Me
 
-✨ Full-stack Mobile App Developer ✨  
-Passionate about building elegant solutions with code and creating beautiful, functional user experiences.
+I'm **Dev Rai**, a passionate Full-stack Mobile App Developer based in 🌍 Nepal.  
+I love turning ideas into powerful, user-friendly digital experiences.
+
+- 👨‍💻 I specialize in cross-platform mobile app development using **Flutter**, **React Native**, and **Expo Go**
+- 🧠 Constantly learning and improving my skills in **frontend**, **backend**, and **DevOps**
+- 🚀 I enjoy building scalable apps using **Dart**, **JavaScript**, **Python**, **Node.js**, and **Django**
+- 🌱 Currently exploring advanced DevOps practices with **Docker**, **CI/CD**, and deployment automation
+- 🤝 Open to freelance opportunities and collaboration on exciting full-stack projects
+
+When I'm not coding, you might find me:
+- ☕ Enjoying a cup of coffee or perfecting a latte (Barista vibes!)
+- 🎮 Playing games or exploring new tech trends
+- 🧳 Dreaming up my next travel or project adventure
+
+Let’s build something amazing together! 🙌
 
 ---
 
