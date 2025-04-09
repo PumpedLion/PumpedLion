@@ -38,7 +38,7 @@ Passionate about building elegant solutions with code and creating beautiful, fu
 ---
 
 ### 📫 How to reach me:
-- You can connect with me on [LinkedIn](#) or explore my projects here on GitHub!
+- You can connect with me on [LinkedIn](https://www.linkedin.com/in/dev-rai-8341a12b5/) or explore my projects here on GitHub!
 
 ---
 
