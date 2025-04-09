@@ -37,8 +37,16 @@ Passionate about building elegant solutions with code and creating beautiful, fu
 
 ---
 
+### 📊 GitHub Stats & Language Usage
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Dev Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
 ### 📫 How to reach me:
-- You can connect with me on [LinkedIn](https://www.linkedin.com/in/dev-rai-8341a12b5/) or explore my projects here on GitHub!
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/dev-rai-8341a12b5/)
+- Explore more projects here on GitHub!
 
 ---
 
