@@ -39,8 +39,8 @@ Passionate about building elegant solutions with code and creating beautiful, fu
 
 ### 📊 GitHub Stats & Language Usage
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-![Dev Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PumpedLion&layout=compact&theme=tokyonight)
+![Dev Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=PumpedLion&show_icons=true&theme=tokyonight)
 
 ---
 
