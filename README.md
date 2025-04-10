@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Android Developer Banner" width="100%" />
+</p>
+
+
 ### 🙋‍♂️ About Me
 
 I'm **Dev Rai**, a passionate Full-stack Mobile App Developer based in 🌍 Nepal.  
