@@ -57,9 +57,9 @@ Let’s build something amazing together! 🙌
 
 ### 📊 GitHub Stats & Language Usage
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PumpedLion&layout=compact&theme=tokyonight)
-![Dev Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=PumpedLion&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PumpedLion&layout=compact&theme=tokyonight&cache_seconds=1800)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PumpedLion&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ---
 
 ### 📫 How to reach me:
