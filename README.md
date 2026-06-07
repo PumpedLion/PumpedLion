@@ -59,7 +59,7 @@ Let’s build something amazing together! 🙌
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PumpedLion&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PumpedLion&layout=compact&theme=tokyonight&hide=html,css,javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PumpedLion&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2)
 ---
 
 ### 📫 How to reach me:
